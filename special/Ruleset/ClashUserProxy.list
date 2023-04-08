@@ -5,3 +5,9 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,onedrive.live.com
 #豆瓣开屏广告
 DOMAIN-SUFFIX,api.douban.com,Reject
+DOMAIN-SUFFIX,pglstatp-toutiao.com,Reject
+DOMAIN-SUFFIX,t-dsp.pinduoduo.com,Reject
+DOMAIN-SUFFIX,dsp-x.jd.com,Reject
+DOMAIN-SUFFIX,s.adxvip.com,Reject
+DOMAIN-SUFFIX,im-x.jd.com,Reject
+DOMAIN-SUFFIX,api.taou.com,Reject
