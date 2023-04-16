@@ -4,6 +4,11 @@ DOMAIN-SUFFIX,openai.com
 #onedrive网页版需要代理
 DOMAIN-SUFFIX,onedrive.live.com
 
+#openAI
+DOMAIN-SUFFIX,openai.com,OpenAI
+DOMAIN,openaiapi-site.azureedge.net,OpenAI
+DOMAIN,chat.openai.com.cdn.cloudflare.net,OpenAI
+
 #直连修正
 DOMAIN-SUFFIX,slack.com,Direct
 
