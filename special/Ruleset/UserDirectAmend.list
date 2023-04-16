@@ -1,2 +1,4 @@
 #直连修正
+domain-suffix,pool.ntp.org
+domain-suffix,ntp.nasa.gov
 DOMAIN-SUFFIX,slack.com
