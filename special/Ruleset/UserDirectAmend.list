@@ -3,3 +3,4 @@ domain-suffix,pool.ntp.org
 domain-suffix,ntp.nasa.gov
 DOMAIN-SUFFIX,router.asus.com
 DOMAIN-SUFFIX,slack.com
+domain-suffix,ticketmaster.com
