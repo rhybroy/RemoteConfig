@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,yimg.com
+  #onedrive网页版需要代理
+  - DOMAIN-SUFFIX,onedrive.live.com
