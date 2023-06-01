@@ -1,7 +1,7 @@
 #直连修正
 payload:
-  - domain-suffix,pool.ntp.org
-  - domain-suffix,ntp.nasa.gov
+  - DOMAIN-SUFFIX,pool.ntp.org
+  - DOMAIN-SUFFIX,ntp.nasa.gov
   - DOMAIN-SUFFIX,router.asus.com
   - DOMAIN-SUFFIX,slack.com
-  - domain-suffix,ticketmaster.com
+  - DOMAIN-SUFFIX,ticketmaster.com
