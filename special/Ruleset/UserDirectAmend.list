@@ -1,10 +1,11 @@
-#自定义直连补充
-DOMAIN-SUFFIX,pool.ntp.org
-DOMAIN-SUFFIX,ntp.nasa.gov
-DOMAIN-SUFFIX,router.asus.com
-DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,api.ibkr.com
-DOMAIN-SUFFIX,ticketmaster.com
-DOMAIN-SUFFIX,bitbucket.org
-DOMAIN-SUFFIX,rhybroy.eu.org
-DOMAIN-SUFFIX,guiji.eu.org
+#直连修正
+payload:
+  - DOMAIN-SUFFIX,pool.ntp.org
+  - DOMAIN-SUFFIX,ntp.nasa.gov
+  - DOMAIN-SUFFIX,router.asus.com
+  - DOMAIN-SUFFIX,slack.com
+  - DOMAIN-SUFFIX,api.ibkr.com
+  - DOMAIN-SUFFIX,ticketmaster.com
+  - DOMAIN-SUFFIX,bitbucket.org
+  - DOMAIN-SUFFIX,rhybroy.eu.org
+  - DOMAIN-SUFFIX,guiji.eu.org
