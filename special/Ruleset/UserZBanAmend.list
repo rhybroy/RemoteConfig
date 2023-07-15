@@ -1,8 +1,8 @@
-#豆瓣开屏广告
-DOMAIN-SUFFIX,api.douban.com
-DOMAIN-SUFFIX,pglstatp-toutiao.com
-DOMAIN-SUFFIX,t-dsp.pinduoduo.com
-DOMAIN-SUFFIX,dsp-x.jd.com
-DOMAIN-SUFFIX,s.adxvip.com
-DOMAIN-SUFFIX,im-x.jd.com
-DOMAIN-SUFFIX,api.taou.com
+payload:
+  - DOMAIN-SUFFIX,api.douban.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,t-dsp.pinduoduo.com
+  - DOMAIN-SUFFIX,dsp-x.jd.com
+  - DOMAIN-SUFFIX,s.adxvip.com
+  - DOMAIN-SUFFIX,im-x.jd.com
+  - DOMAIN-SUFFIX,api.taou.com
