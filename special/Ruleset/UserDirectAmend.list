@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,router.asus.com
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,api.ibkr.com
+  - DOMAIN-SUFFIX,sc.com
   - DOMAIN-SUFFIX,ticketmaster.com
   - DOMAIN-SUFFIX,bitbucket.org
   - DOMAIN-SUFFIX,rhybroy.eu.org
