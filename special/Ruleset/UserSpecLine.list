@@ -3,3 +3,4 @@ payload:
   #google voice稳定通话
   - DOMAIN,voice.telephony.goog
   - DOMAIN,stun.l.google.com
+  - DOMAIN,paypal.com
