@@ -1,0 +1,5 @@
+#用于限定美国线路的应用
+payload:
+  #google voice稳定通话
+  - DOMAIN,voice.telephony.goog
+  - DOMAIN,stun.l.google.com
