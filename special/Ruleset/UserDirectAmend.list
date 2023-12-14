@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,sc.com
   - DOMAIN-SUFFIX,ticketmaster.com
   - DOMAIN-SUFFIX,bitbucket.org
-  - DOMAIN-SUFFIX,rhybroy.eu.org
   - DOMAIN-SUFFIX,guiji.eu.org
   - DOMAIN-SUFFIX, trust-provider.cn
   - DOMAIN-SUFFIX, bac-assets.com
