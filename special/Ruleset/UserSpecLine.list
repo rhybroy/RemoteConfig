@@ -5,5 +5,5 @@ payload:
   - DOMAIN,stun.l.google.com
   
   #other
-  - DOMAIN,equifax.com
-  - DOMAIN,starbucks.com
+  - DOMAIN-SUFFIX,equifax.com
+  - DOMAIN-SUFFIX,starbucks.com
