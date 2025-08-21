@@ -3,3 +3,7 @@ payload:
   #google voice稳定通话
   - DOMAIN,voice.telephony.goog
   - DOMAIN,stun.l.google.com
+  
+  #other
+  - DOMAIN,equifax.com
+  - DOMAIN,starbucks.com
