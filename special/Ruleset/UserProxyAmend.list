@@ -4,4 +4,5 @@ payload:
   #onedrive网页版需要代理
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,collinson.cn
+  - DOMAIN-SUFFIX,jable.tv
  
