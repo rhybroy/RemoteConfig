@@ -1,9 +1,9 @@
 #用于限定美国线路的应用
-payload:
-  #google voice稳定通话
-  - DOMAIN,voice.telephony.goog
-  - DOMAIN,stun.l.google.com
-  
-  #other
-  - DOMAIN-SUFFIX,equifax.com
-  - DOMAIN-SUFFIX,starbucks.com
+
+#google voice稳定通话
+- DOMAIN,voice.telephony.goog
+- DOMAIN,stun.l.google.com
+
+#other
+- DOMAIN-SUFFIX,equifax.com
+- DOMAIN-SUFFIX,starbucks.com
