@@ -2,6 +2,7 @@
 
 - DOMAIN-SUFFIX,yimg.com
 - DOMAIN-SUFFIX,linkedin.com
+- DOMAIN-SUFFIX,uptodown.com
 
 #onedrive网页版需要代理
 - DOMAIN-SUFFIX,onedrive.live.com
