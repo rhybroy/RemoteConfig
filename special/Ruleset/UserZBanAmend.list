@@ -1,9 +1,0 @@
-#屏蔽修正
-
-- DOMAIN-SUFFIX,api.douban.com
-- DOMAIN-SUFFIX,pglstatp-toutiao.com
-- DOMAIN-SUFFIX,t-dsp.pinduoduo.com
-- DOMAIN-SUFFIX,dsp-x.jd.com
-- DOMAIN-SUFFIX,s.adxvip.com
-- DOMAIN-SUFFIX,im-x.jd.com
-- DOMAIN-SUFFIX,api.taou.com
