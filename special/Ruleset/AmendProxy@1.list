@@ -14,3 +14,8 @@ DOMAIN-SUFFIX,mushroomtrack.com
 
 #reward+ 需HK线路
 DOMAIN-SUFFIX,rbwm-api.hsbc.com.hk
+
+#other
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,api.ipify.org
+DOMAIN-SUFFIX,gitbook.io
