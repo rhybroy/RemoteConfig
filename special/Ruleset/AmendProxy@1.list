@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,godaddy.com
-DOMAIN-SUFFIX,self.events.data.microsoft.com
 DOMAIN-SUFFIX,seedhub.cc
 
 
@@ -14,17 +13,18 @@ DOMAIN-SUFFIX,collinson.cn
 
 # TV
 DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,avjoy.me
 DOMAIN-SUFFIX,njav.tv
-DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,javmost.com
-DOMAIN-SUFFIX,turbosplayer.com
-DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,123AV.com
 DOMAIN-SUFFIX,javxx.com
 DOMAIN-SUFFIX,supjav.com
-
+DOMAIN-SUFFIX,turbosplayer.com
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,javhd.com
+DOMAIN-SUFFIX,myavlive.com
 
 
 #reward+ 需HK线路
