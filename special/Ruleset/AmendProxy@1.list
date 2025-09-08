@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,openclash.org
 DOMAIN-SUFFIX,api.ttt.sh
+DOMAIN-SUFFIX,redd.it
 
 
 #onedrive网页版需要代理
