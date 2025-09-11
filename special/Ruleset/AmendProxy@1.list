@@ -14,7 +14,12 @@ DOMAIN-SUFFIX,openclash.org
 DOMAIN-SUFFIX,api.ttt.sh
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,cloudflare.net
-
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,blogblog.com
+DOMAIN-SUFFIX,letterboxd.com
+DOMAIN-SUFFIX,cloudapp.azure.com
+DOMAIN-SUFFIX,starwoodhotels.com
+DOMAIN-SUFFIX,appcenter.ms
 
 #onedrive网页版需要代理
 DOMAIN-SUFFIX,onedrive.live.com
