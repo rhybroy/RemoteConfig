@@ -3,6 +3,7 @@
 #google voice稳定通话
 DOMAIN,voice.telephony.goog
 DOMAIN,stun.l.google.com
+IP-CIDR,216.239.36.145/32
 
 #google play
 DOMAIN-SUFFIX,services.googleapis.cn
