@@ -6,11 +6,11 @@ DOMAIN,stun.l.google.com
 IP-CIDR,216.239.36.145/32
 
 #google play
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,play.googleapis.com
-DOMAIN,connectivitycheck.gstatic.com
-DOMAIN-SUFFIX,android.clients.google.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+#DOMAIN-SUFFIX,services.googleapis.cn
+#DOMAIN-SUFFIX,play.googleapis.com
+#DOMAIN,connectivitycheck.gstatic.com
+#DOMAIN-SUFFIX,android.clients.google.com
+#DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 #other
 DOMAIN-SUFFIX,equifax.com
