@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,letterboxd.com
 DOMAIN-SUFFIX,cloudapp.azure.com
 DOMAIN-SUFFIX,starwoodhotels.com
 DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,linux.do
 
 #onedrive网页版需要代理
 DOMAIN-SUFFIX,onedrive.live.com
@@ -61,3 +62,4 @@ DOMAIN-SUFFIX,docusign.net
 DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,maxmypoint.com
 DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,fastbull.com
