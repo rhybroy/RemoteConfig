@@ -51,10 +51,13 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,ynhf1jp.com
 
+
 #other
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,nodeseek.com
+IP-CIDR,5.28.195.2/32,no-resolve
 
 # F
 DOMAIN-SUFFIX,interactivebrokers.com
