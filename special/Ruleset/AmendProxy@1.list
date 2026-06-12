@@ -47,8 +47,6 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 
-#reward+ 需HK线路
-DOMAIN-SUFFIX,rbwm-api.hsbc.com.hk
 
 # okx
 DOMAIN-SUFFIX,okx.com
