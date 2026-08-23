@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,starwoodhotels.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,iproyal.com
+DOMAIN-SUFFIX,reservation.jp
+DOMAIN-SUFFIX,jrhotel-m.jp
 
 #onedrive网页版需要代理
 DOMAIN-SUFFIX,onedrive.live.com
