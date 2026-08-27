@@ -12,6 +12,14 @@ IP-CIDR,216.239.36.145/32
 #DOMAIN-SUFFIX,android.clients.google.com
 #DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
+#OLT US IRS
+DOMAIN-SUFFIX,irs.gov
+DOMAIN-SUFFIX,treasury.gov
+DOMAIN-SUFFIX,id.me
+DOMAIN-SUFFIX,idmetrx.com
+DOMAIN-SUFFIX,olt.com
+DOMAIN-SUFFIX,onlinetaxes.com
+
 #other
 DOMAIN-SUFFIX,equifax.com
 DOMAIN-SUFFIX,starbucks.com
