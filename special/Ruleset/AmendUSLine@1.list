@@ -19,7 +19,18 @@ DOMAIN-SUFFIX,id.me
 DOMAIN-SUFFIX,idmetrx.com
 DOMAIN-SUFFIX,olt.com
 DOMAIN-SUFFIX,onlinetaxes.com
+
 DOMAIN-SUFFIX,annualcreditreport.com
+# 2. Equifax
+DOMAIN-SUFFIX,equifax.com
+DOMAIN-SUFFIX,theworknumber.com
+DOMAIN-SUFFIX,talx.com
+# 3. Experian
+DOMAIN-SUFFIX,experian.com
+DOMAIN-SUFFIX,edq.com
+DOMAIN-SUFFIX,csid.com
+# 4. TransUnion
+DOMAIN-SUFFIX,transunion.com
 
 #other
 DOMAIN-SUFFIX,equifax.com
