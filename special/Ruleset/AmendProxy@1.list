@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,iproyal.com
 DOMAIN-SUFFIX,reservation.jp
 DOMAIN-SUFFIX,jrhotel-m.jp
+DOMAIN-SUFFIX,redpocket.com
+
 
 #onedrive网页版需要代理
 DOMAIN-SUFFIX,onedrive.live.com
