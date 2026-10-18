@@ -59,11 +59,13 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,cindy.app
 
 #tech tools
 DOMAIN-SUFFIX,iterm2.com
 DOMAIN-SUFFIX,martin-riedl.de
+DOMAIN-SUFFIX,infiniteapi.com
 
 # okx
 DOMAIN-SUFFIX,okx.com
