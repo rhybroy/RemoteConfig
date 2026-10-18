@@ -26,10 +26,10 @@ DOMAIN-SUFFIX,reservation.jp
 DOMAIN-SUFFIX,jrhotel-m.jp
 DOMAIN-SUFFIX,redpocket.com
 
-DOMAIN-KEYWORD,push.apple.com
-
-DOMAIN-SUFFIX,cindy.app
-DOMAIN-SUFFIX,iterm2.com
+#apple推送
+DOMAIN-SUFFIX,apple.com.edgekey.net
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,push.apple.com
 
 #onedrive网页版需要代理
 DOMAIN-SUFFIX,onedrive.live.com
@@ -53,11 +53,15 @@ DOMAIN-SUFFIX,javhd.com
 DOMAIN-SUFFIX,myavlive.com
 DOMAIN-SUFFIX,jav.sb
 
-#twitter
+#ai
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,cindy.app
 
+#tech tools
+DOMAIN-SUFFIX,iterm2.com
 
 # okx
 DOMAIN-SUFFIX,okx.com
@@ -72,7 +76,7 @@ DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,nodeseek.com
 IP-CIDR,5.28.195.2/32,no-resolve
 
-# F
+#Fi
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,docusign.net
 DOMAIN-SUFFIX,uscardforum.com
