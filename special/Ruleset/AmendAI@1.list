@@ -6,4 +6,12 @@ DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,cindy.app
+#hermes
 DOMAIN-SUFFIX,nousresearch.com
+
+#google antigravity
+DOMAIN-KEYWORD,antigravity
+DOMAIN-KEYWORD,goog
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,run.app
+
