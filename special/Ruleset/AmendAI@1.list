@@ -1,4 +1,6 @@
 #ai
+DOMAIN-KEYWORD,grok
+DOMAIN-KEYWORD,cursor
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
