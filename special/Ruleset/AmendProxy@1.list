@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,ibruce.info
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN-SUFFIX,cloudflare.dev
+DOMAIN-SUFFIX,workers.dev
 
 # okx
 DOMAIN-SUFFIX,okx.com
